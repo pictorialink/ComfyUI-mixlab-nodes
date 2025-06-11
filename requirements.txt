@@ -6,11 +6,11 @@ matplotlib
 openai
 torchaudio
 
-clip-interrogator==0.6.0
+clip-interrogator
 transformers>=4.36.0
 lark-parser
 imageio-ffmpeg
-rembg[gpu]==2.0.66
+rembg[gpu]
 omegaconf>=2.3.0
 Pillow>=9.5.0
 einops>=0.7.0
