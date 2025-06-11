@@ -2,7 +2,7 @@ numpy
 pyOpenSSL
 watchdog
 opencv-python-headless
-matplotlib>=3.6,<3.7
+matplotlib>=3.6
 openai
 torchaudio
 
