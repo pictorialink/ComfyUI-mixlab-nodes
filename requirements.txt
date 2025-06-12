@@ -10,7 +10,7 @@ clip-interrogator==0.6.0
 transformers>=4.36.0
 lark-parser
 imageio-ffmpeg
-rembg[gpu]
+rembg
 omegaconf>=2.3.0
 Pillow>=9.5.0
 einops>=0.7.0
